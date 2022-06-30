@@ -1,0 +1,86 @@
+
+  
+  fieldset {
+    border: 0;
+    justify-content: center;
+    justify-items: center;
+    
+
+  }
+  body{
+    background-color: grey;
+    justify-content: center;
+    position:relative;
+    top: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    
+  }
+  input{
+  border-radius: 5px;
+  font-weight: 20px;
+  width: 200px;
+  height: 30px;
+ 
+
+
+  }
+#enviar, #enviarNS{
+  background-color: yellow;
+  width: 200px;
+  height: 30px;
+  color: black;
+  
+
+}
+#esqueci{
+  background-color: lightcoral;
+  width: 200px;
+  height: 30px;
+  color: black;
+}
+#cadastro{
+  background-color: blue;
+  width: 200px;
+  height: 30px;
+  color: black;
+}
+#logo{
+  width: 250px;
+  height: 250px;
+  left: 50%;
+  top:50%;
+  margin-left:-250px;
+  margin-top:-45px;
+  
+}
+#logo, #tit, #jargo{
+  align-items: center;
+  color: white;
+  font-family: blippo, fantasy;
+}
+#login{
+  color: white;
+  margin-left: 40px;
+  margin-top:-40px;
+  font-family: blippo, fantasy;
+  
+}
+#fin{
+  color: white;
+  
+}
+#lampada{
+  width: 250px;
+  height: 250px;
+  margin-left: 0px;
+}
+#ns{
+  color: white;
+  font-family: blippo, fantasy;
+  margin-left: 0px;
+}
+
+
+  
